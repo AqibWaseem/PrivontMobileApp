@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18895996345",
+    "project_id": "privont-b7058",
+    "storage_bucket": "privont-b7058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18895996345:android:e2794eaafa24e727a9a268",
+        "android_client_info": {
+          "package_name": "com.privont"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6dk9ywZvI7iCmMDUhrA3XQolUDPGVwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
